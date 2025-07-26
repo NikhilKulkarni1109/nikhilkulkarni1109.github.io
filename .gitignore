@@ -1,0 +1,25 @@
+# Cursor IDE
+.cursor/
+.cursor-settings.json
+
+# Build output
+public/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Development
+node_modules/
+*.log
+.sass-cache/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment
+.env
+.env.local 

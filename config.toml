@@ -1,0 +1,36 @@
+base_url = "https://nikhilkulkarni1109.github.io/"
+title = "Nikhil Kulkarni"
+
+description = "This is an example description"
+build_search_index = true
+generate_feeds = true
+compile_sass = true
+minify_html = true
+theme = "apollo"
+
+
+[markdown]
+highlight_code = false
+
+[extra]
+toc = false
+fancy_code = true
+use_cdn = false
+favicon = "icon/favicon.png"
+theme = "toggle"
+
+menu = [
+    { name = "/projects", url = "/projects", weight = 1 },
+    { name = "/blog", url = "/blog", weight = 2 },
+    { name = "/random", url = "/random", weight = 3 },
+]
+
+socials = [
+    { name = "linkedin", url = "https://linkedin.com/in/nikhil-kulkarni-899351142", icon = "linkedin" },
+    { name = "github", url = "https://github.com/NikhilKulkarni1109", icon = "github" },
+    { name = "email", url = "mailto:nikhil.kulkarni@alumni.iitd.ac.in", icon = "email" },
+]
+
+[extra.analytics]
+enabled = false
+
