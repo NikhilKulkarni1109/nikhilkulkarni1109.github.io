@@ -9,7 +9,3 @@ Over the years, I’ve had the chance to work across very different kinds of tea
 Reach out at **nikhil.kulkarni\[at]alumni.iitd.ac.in** if you’d like to collaborate or just have a conversation.
 
 Here’s my [CV](https://drive.google.com/file/d/10RuLDdxqHjlWKk2tyXedmwkrPF6t96oi/view?usp=sharing) 📄
-
----
-
-_Built with the [Apollo](https://github.com/not-matthias/apollo) theme._
