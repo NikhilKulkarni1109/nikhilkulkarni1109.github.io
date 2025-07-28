@@ -20,8 +20,10 @@ Founders and customer support teams used it to pull insights from sales calls an
 **Tech Stack:** React.js • FastAPI • Chroma • LangChain • GPT-3
 
 
-<iframe src="https://drive.google.com/file/d/1TkiRHlTzIGSzOKoIIoFJ01OUQr3yh95o/preview" 
-        width="640" height="360" allow="autoplay"></iframe>
-
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe src="https://drive.google.com/file/d/1TkiRHlTzIGSzOKoIIoFJ01OUQr3yh95o/preview" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+            allow="autoplay"></iframe>
+</div>
 
 *Video not working? See the demo <a href="https://drive.google.com/file/d/1TkiRHlTzIGSzOKoIIoFJ01OUQr3yh95o/" target="_blank">here ↗</a>.*
