@@ -1,7 +1,7 @@
 base_url = "https://nikhilkulkarni1109.github.io/"
 title = "Nikhil Kulkarni"
 
-description = "This is an example description"
+description = "Personal website and blog of Nikhil Kulkarni"
 build_search_index = true
 generate_feeds = true
 compile_sass = true
