@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% macro home_page(section) %}
+    <main>
+        <article>
+            <section class="body">
+                {% if section.title %}
+                <div class="page-header">
+                    <span id="typewriter-title"></span>
+                </div>
+                {% endif %}
+                {{ section.content | safe }}
+            </section>
+        </article>
+    </main>
+{% endmacro home_page %}
+
+{% block main_content %}
+    {{ self::home_page(section=section) }}
+    <script defer src="{{ get_url(path='js/typewriter-config.js') }}"></script>
+{% endblock main_content %} 
