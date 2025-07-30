@@ -11,7 +11,7 @@ Outside of work, I enjoy solving math problems and going on backpacking trips wi
 
 Feel free to <a href="https://calendly.com/nikhil-kulkarni-iitd/30min" target="_blank" rel="noopener">book a quick chat</a> if you'd like to talk tech, math, or just catch up.
 
-Here’s my <a href="https://drive.google.com/file/d/10RuLDdxqHjlWKk2tyXedmwkrPF6t96oi/view?usp=sharing" target="_blank" rel="noopener">CV</a>
+Here’s my <a href="https://drive.google.com/file/d/10RuLDdxqHjlWKk2tyXedmwkrPF6t96oi/view?usp=sharing" target="_blank" rel="noopener">CV</a> 📝
 
 > “Pure mathematics is, in its way, the poetry of logical ideas.”
 > — Albert Einstein

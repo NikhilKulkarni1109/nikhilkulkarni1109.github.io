@@ -1,71 +1,70 @@
-{% extends "base.html" %}
+{% extends "base.html" %} {% macro home_page(section) %}
+<main>
+  <article>
+    <section class="body homepage-content">
+      {% if section.title %}
+      <div class="page-header">
+        <span id="typewriter-title"></span>
+      </div>
+      {% endif %} {{ section.content | safe }}
+    </section>
+  </article>
+</main>
+{% endmacro home_page %} {% block main_content %} {{
+self::home_page(section=section) }}
+<script defer src="{{ get_url(path='js/typewriter-config.js') }}"></script>
 
-{% macro home_page(section) %}
-    <main>
-        <article>
-            <section class="body homepage-content">
-                {% if section.title %}
-                <div class="page-header">
-                    <span id="typewriter-title"></span>
-                </div>
-                {% endif %}
-                {{ section.content | safe }}
-            </section>
-        </article>
-    </main>
-{% endmacro home_page %}
+<style>
+  .homepage-content {
+    font-size: 1.1rem;
+    line-height: 1.7;
+  }
 
-{% block main_content %}
-    {{ self::home_page(section=section) }}
-    <script defer src="{{ get_url(path='js/typewriter-config.js') }}"></script>
-    
-    <style>
-        .homepage-content {
-            font-size: 1.1rem;
-            line-height: 1.7;
-        }
-        
-        .homepage-content p {
-            font-size: 1.1rem;
-            margin-bottom: 1.2rem;
-        }
-        
-        .homepage-content blockquote {
-            font-size: 1.1rem;
-            font-style: italic;
-            font-weight: 300;
-            margin: 2.5rem 0;
-            padding: 1.5rem 2rem;
-            border-left: 4px solid #3498db;
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.05), rgba(74, 144, 226, 0.02));
-            border-radius: 0 8px 8px 0;
-            position: relative;
-            color: #2c3e50;
-        }
-        
-        .homepage-content blockquote::before {
-            content: '"';
-            font-size: 3rem;
-            font-family: serif;
-            color: #3498db;
-            position: absolute;
-            top: -10px;
-            left: 15px;
-            opacity: 0.3;
-        }
-        
-        .homepage-content blockquote p {
-            margin-bottom: 0.5rem;
-        }
-        
-        @media (max-width: 768px) {
-            .homepage-content {
-                font-size: 1.05rem;
-            }
-            
-            .homepage-content p {
-                font-size: 1.05rem;
-            }
-        }
-    </style>
-{% endblock main_content %} 
+  .homepage-content p {
+    font-size: 1.1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .homepage-content blockquote {
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 300;
+    margin: 2.5rem 0;
+    padding: 1.5rem 2rem;
+    border-left: 4px solid #3498db;
+    background: linear-gradient(
+      135deg,
+      rgba(52, 152, 219, 0.05),
+      rgba(74, 144, 226, 0.02)
+    );
+    border-radius: 0 8px 8px 0;
+    position: relative;
+    color: #2c3e50;
+  }
+
+  .homepage-content blockquote::before {
+    content: "";
+    font-size: 3rem;
+    font-family: serif;
+    color: #3498db;
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    opacity: 0.3;
+  }
+
+  .homepage-content blockquote p {
+    margin-bottom: 0.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .homepage-content {
+      font-size: 1.05rem;
+    }
+
+    .homepage-content p {
+      font-size: 1.05rem;
+    }
+  }
+</style>
+{% endblock main_content %}
