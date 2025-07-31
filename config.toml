@@ -31,6 +31,10 @@ socials = [
     { name = "email", url = "mailto:nikhil.kulkarni@alumni.iitd.ac.in", icon = "email" },
 ]
 
+stylesheets = [
+    "custom-theme.css"
+]
+
 [extra.analytics]
 enabled = false
 
