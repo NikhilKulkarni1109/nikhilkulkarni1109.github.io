@@ -1,0 +1,11 @@
+/* Custom Theme Override - Blue Links */
+
+/* Light Theme - Blue Links */
+:root.light {
+  --primary-color: #2196f3;  
+}
+
+/* Dark Theme - Blue Links */
+:root.dark {
+    --primary-color: #2195f3;
+} 
