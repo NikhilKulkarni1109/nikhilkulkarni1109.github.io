@@ -17,7 +17,7 @@ toc = false
 fancy_code = true
 use_cdn = false
 favicon = "icon/favicon.png"
-theme = "toggle"
+theme = "light"
 
 menu = [
     { name = "/projects", url = "/projects", weight = 1 },
