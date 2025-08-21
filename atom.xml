@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Nikhil Kulkarni</title>
+    <subtitle>Personal website and blog of Nikhil Kulkarni</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://nikhilkulkarni1109.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://nikhilkulkarni1109.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <id>https://nikhilkulkarni1109.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AI Portfolio Manager</title>
+        <published>2025-07-25T00:00:00+00:00</published>
+        <updated>2025-07-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nikhilkulkarni1109.github.io/projects/ai-portfolio-manager/"/>
+        <id>https://nikhilkulkarni1109.github.io/projects/ai-portfolio-manager/</id>
+        
+        <content type="html" xml:base="https://nikhilkulkarni1109.github.io/projects/ai-portfolio-manager/">&lt;p&gt;Details coming soon. Stay tuned!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Interesting Puzzles</title>
+        <published>2025-01-15T00:00:00+00:00</published>
+        <updated>2025-01-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nikhilkulkarni1109.github.io/blog/interesting-puzzles/"/>
+        <id>https://nikhilkulkarni1109.github.io/blog/interesting-puzzles/</id>
+        
+        <content type="html" xml:base="https://nikhilkulkarni1109.github.io/blog/interesting-puzzles/">&lt;p&gt;Back in the day, my mom ran a small &lt;em&gt;Palnaghar (&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cr%C3%A8che#:~:text=Child%20care%20center%2C%20an%20organization%20of%20adults%20who%20take%20care%20of%20children%20in%20place%20of%20their%20parents&quot;&gt;Crèche&lt;&#x2F;a&gt;)&lt;&#x2F;em&gt; at home. It was a warm, homely place where kids would come, sit, and play while their parents were at work.
+I first started creating &amp;amp; finding puzzles for the kids, but now I mostly have a collection of puzzles for adults.&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s a small selection of puzzles I enjoy:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;for-adults&quot;&gt;For Adults&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Birthday_problem&quot;&gt;Birthday Problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@ongspxm&#x2F;intuitive-view-on-tuesday-birthday-problem-1d67c6c1da40&quot;&gt;Tuesday Birthday Problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;All Horses Have the Same Color - &lt;a href=&quot;https:&#x2F;&#x2F;circles.math.ucla.edu&#x2F;circles&#x2F;lib&#x2F;data&#x2F;Handout-1669-1559.pdf&quot;&gt;Puzzle #3&lt;&#x2F;a&gt;
+(Check out other interesting paradoxes as well.)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brilliant.org&#x2F;wiki&#x2F;monty-hall-problem&#x2F;&quot;&gt;Monty Hall Problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;for-children&quot;&gt;For Children&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.space.com&#x2F;moon-halo&quot;&gt;What is a moon halo?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.theguardian.com&#x2F;science&#x2F;series&#x2F;alex-bellos-monday-puzzle&quot;&gt;Alex Bellos&#x27;s Problems&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;What Causes the Seasons? Does it happen because the Earth is closer to the Sun or farther from it?
+&lt;a href=&quot;https:&#x2F;&#x2F;spaceplace.nasa.gov&#x2F;seasons&#x2F;en&#x2F;&quot;&gt;Answer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nikhilkulkarni1109.github.io&#x2F;blog&#x2F;interesting-puzzles&#x2F;%22https:&#x2F;&#x2F;askfilo.com&#x2F;user-question-answers-smart-solutions&#x2F;in-a-coffee-jar-there-are-black-and-white-beans-of-an-3335303633313539&quot;&gt;Coffee Can Problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Give me 5 numbers such that, by adding some or all of them in different combinations, I can get every total from 1 to 30.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>ITILITE Sage</title>
+        <published>2024-02-23T00:00:00+00:00</published>
+        <updated>2024-02-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nikhilkulkarni1109.github.io/projects/itilite-sage/"/>
+        <id>https://nikhilkulkarni1109.github.io/projects/itilite-sage/</id>
+        
+        <content type="html" xml:base="https://nikhilkulkarni1109.github.io/projects/itilite-sage/">&lt;p&gt;Think of it as our DIY version of &lt;a href=&quot;https:&#x2F;&#x2F;www.glean.com&#x2F;&quot; target=&quot;_blank&quot;&gt;Glean&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We indexed all internal docs (Google Docs, Sites, Confluence) into a vector DB.
+Added a few common user profiles like Support, Tech, PMs, and Founders, and used system prompts + RAG to give useful answers with links to the right docs.&lt;&#x2F;p&gt;
+&lt;p&gt;Founders and customer support teams used it to pull insights from sales calls and customer chats.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;&#x2F;strong&gt; React.js • FastAPI • Chroma • LangChain • GPT-3&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1TkiRHlTzIGSzOKoIIoFJ01OUQr3yh95o&#x2F;preview&quot; 
+            style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;&quot; 
+            allow=&quot;autoplay&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;&lt;em&gt;Video not working? See the demo &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1TkiRHlTzIGSzOKoIIoFJ01OUQr3yh95o&#x2F;&quot; target=&quot;_blank&quot;&gt;here ↗&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Vehicle Routing Optimization</title>
+        <published>2018-07-10T00:00:00+00:00</published>
+        <updated>2018-07-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nikhilkulkarni1109.github.io/projects/carp/"/>
+        <id>https://nikhilkulkarni1109.github.io/projects/carp/</id>
+        
+        <content type="html" xml:base="https://nikhilkulkarni1109.github.io/projects/carp/">&lt;p&gt;I did my research internship at the National University of Singapore (NUS) under the guidance of &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.com&#x2F;citations?user=iDEgcFQAAAAJ&amp;amp;hl=en&quot;&gt;Prof. Andrew Lim&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I worked on modeling road-sweeping vehicle routes as a &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.co.in&#x2F;scholar?q=capacitated+arc+routing+problem&amp;amp;hl=en&amp;amp;as_sdt=0&amp;amp;as_vis=1&amp;amp;oi=scholart&quot;&gt;Capacitated Arc Routing Problem (CARP)&lt;&#x2F;a&gt;, considering things like turn penalties, multi-curb edges, and vehicle capacity limits. I implemented a few research papers and tried tweaking the algorithms to beat the existing SOTA and aim for a publication.&lt;&#x2F;p&gt;
+&lt;p&gt;It didn’t reach the publication stage, but I learned a lot about academic rigor, the level of detail and effort it needs, and picked up some interesting math.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Git Repo:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Nikhil11Kulkarni&#x2F;Arc-Routing-Problem&#x2F;tree&#x2F;master&quot; target=&quot;_blank&quot;&gt;Link ↗&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;&#x2F;strong&gt; Java&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
