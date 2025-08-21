@@ -23,7 +23,7 @@ The community has grown to over **140 members organically** - just word of mouth
 We also organize **offbeat cultural trips** to lesser-known but deeply rooted places across India.
 Some of our past trips include:
 
-* **[Swaesh Sringeri](https://drive.google.com/file/d/18tLgcDRyGbiXrzLkG2uwDkhUwhXCsgV3/view?usp=sharing)** 
+* **[Swadesh Sringeri](https://drive.google.com/file/d/18tLgcDRyGbiXrzLkG2uwDkhUwhXCsgV3/view?usp=sharing)** 
   - Experienced the authentic gurukula education system
   - Visited a village where people still speak in Sanskrit
 * **[Swadesh SVYM](https://drive.google.com/file/d/1-Yu6i9Hhe_btGzrrE2rAa-nPw9OA3Yig/view?usp=sharing)** 
